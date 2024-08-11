@@ -1,0 +1,2 @@
+#!/bin/sh
+java -jar /Users/robbiebowman/dev/hey/build/libs/hey-1.0-SNAPSHOT.jar "$@"
